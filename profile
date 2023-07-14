@@ -28,7 +28,7 @@
 <h3>About Me</h3>
 </hr>
 <div class="para">
-<p><b>Hi my name is <u>Pawan Balpande</u>. I am currently in 1st year pursuing my b.tech in <u>Information Technology</u>
+<p><b>Hi my name is <u>Pawan Balpande</u>. I am currently in 3rd year pursuing my b.tech in <u>Information Technology</u>
 branch in <u>Yeshwantrao chavan college of engineering Nagpur</u>. I like to do coding and develope websites and playing football.
 i am very passionate about coding cause its look fassinating and intresting. i am very curios person and always love to connect with new people and make new connection. 
 which helps to know about different different new things and culture.</b></p>
